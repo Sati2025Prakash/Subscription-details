@@ -1,5 +1,5 @@
 {
-  "organization.name= Org 3": [
+  "Org 3": [
     { "id": "sub-001", "name": "Subscription A" },
     { "id": "sub-002", "name": "Subscription B" }
   ]
