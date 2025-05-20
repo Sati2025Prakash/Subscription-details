@@ -1,0 +1,10 @@
+{
+  "123456": [
+    { "id": "sub1", "name": "Azure-India" },
+    { "id": "sub2", "name": "O365-India" }
+  ],
+  "7891011": [
+    { "id": "sub3", "name": "Azure-US" },
+    { "id": "sub4", "name": "O365-US" }
+  ]
+}
