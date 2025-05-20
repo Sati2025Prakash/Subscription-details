@@ -1,10 +1,7 @@
 {
-  "123456": [
-    { "id": "sub1", "name": "Azure-India" },
-    { "id": "sub2", "name": "O365-India" }
-  ],
-  "7891011": [
-    { "id": "sub3", "name": "Azure-US" },
-    { "id": "sub4", "name": "O365-US" }
+  "41017259839635": [
+    { "id": "sub1", "name": "Subscription ID1" },
+    { "id": "sub2", "name": "Subscription ID2" }
   ]
 }
+
