@@ -1,7 +1,7 @@
 {
   "41017115692947": [
-    { "id": "sub1", "name": "Subscription ID1" },
-    { "id": "sub2", "name": "Subscription ID2" }
+    { "id": "sub-001", "name": "Subscription A" },
+    { "id": "sub-002", "name": "Subscription B" }
   ]
 }
 
